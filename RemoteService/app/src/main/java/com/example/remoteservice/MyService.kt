@@ -4,7 +4,7 @@ import android.app.Service
 import android.content.Intent
 import android.os.*
 
-/** Command to the service to generate random number  */
+/** Command to the service to handle request and send response  */
 private const val TO_UPPER_CASE = 1
 private const val TO_UPPER_CASE_RESPONSE = 2
 
